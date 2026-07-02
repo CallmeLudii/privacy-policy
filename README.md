@@ -5,24 +5,28 @@ Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und Zweck d
 ## 1. Verantwortlicher
 Anbieter dieser App und verantwortlich für den Datenschutz ist:
 
-
-Erik.com.eb@gmail.com
+[Dein Name / Name deines Entwickler-Studios]  
+[Deine Straße und Hausnummer]  
+[Deine PLZ und Ort]  
+[Deine E-Mail-Adresse]  
 
 ## 2. Arten der verarbeiteten Daten und Zweck
-Bei der Nutzung dieser App können folgende Daten verarbeitet werden:
+Bei der Nutzung dieser App werden Daten verarbeitet, um die technische Funktionalität bereitzustellen, Fehler zu analysieren und das Nutzererlebnis kontinuierlich zu verbessern.
 
-*   **Geräte-Informationen:** Um die technische Funktionalität der App sicherzustellen (z. B. Betriebssystemversion, Gerätemodell).
-*   **Nutzungsdaten:** Anonyme Informationen darüber, wie die App genutzt wird, um Fehler zu beheben und die App zu verbessern.
+Dazu gehören:
+*   **Geräte-Informationen:** Technische Daten wie das Gerätemodell, die Version des Betriebssystems und die eingestellte Sprache.
+*   **Nutzungsdaten (Analytics):** Informationen darüber, wie du mit der App interagierst (z. B. gestartete Level, geklickte Buttons, Verweildauer in der App oder Absturzberichte).
 
-Die Verarbeitung erfolgt auf Grundlage unserer berechtigten Interessen (Art. 6 Abs. 1 lit. f. DSGVO) an der Optimierung und dem sicheren Betrieb der App.
+Die Verarbeitung erfolgt auf Grundlage unserer berechtigten Interessen (Art. 6 Abs. 1 lit. f. DSGVO) an der Optimierung, fehlerfreien Bereitstellung und dem sicheren Betrieb der App.
 
-## 3. Drittanbieter-Dienste
-*Hinweis für Entwickler: Falls du Dienste wie Google Firebase, AdMob, Unity, Apphud oder RevenueCat nutzt, musst du sie hier auflisten. Wenn du GAR KEINE Drittanbieter nutzt, kannst du diesen Abschnitt löschen oder schreiben: "Diese App nutzt keine externen Analysedienste oder Werbe-Frameworks."*
+## 3. Drittanbieter-Dienste (Analytics)
+Zur Verbesserung der App und zur Analyse von Fehlern nutzen wir Analysedienste von Drittanbietern. Diese Dienste erfassen pseudonymisierte Daten. Eine Zusammenführung dieser Daten mit anderen personenbezogenen Daten von Ihnen findet nicht statt.
 
-Beispiel für die Einbindung von Drittanbietern (falls zutreffend):
-Wir binden Dienste von Drittanbietern ein, um die App zu analysieren oder Werbung zu schalten. Diese Anbieter verarbeiten Daten gemäß ihren eigenen Richtlinien:
-*   **Google Firebase / Crashlytics:** Zur Stabilitätsanalyse und Fehlererkennung. [Datenschutzerklärung von Google](https://policies.google.com/privacy)
-*   **Google AdMob:** Zur Anzeige von Werbung. [Datenschutzerklärung von Google](https://policies.google.com/privacy)
+Wir setzen folgenden Dienst ein:
+*   **Google Analytics für Firebase (inkl. Firebase Crashlytics):** Dieser Dienst hilft uns zu verstehen, wie die App genutzt wird und wann Abstürze auftreten. Dabei werden anonymisierte Werbe-IDs oder Geräte-Kennungen verwendet.
+    *   **Anbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.
+    *   **Datenschutzerklärung von Google:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
+    *   **Firebase-Datenschutz:** [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
 ## 4. Datensicherheit
 Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um Ihre Daten gegen Manipulationen, Verlust oder unberechtigten Zugriff zu schützen.
