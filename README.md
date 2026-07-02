@@ -5,10 +5,7 @@ Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und Zweck d
 ## 1. Verantwortlicher
 Anbieter dieser App und verantwortlich für den Datenschutz ist:
 
-[Dein Name / Name deines Entwickler-Studios]  
-[Deine Straße und Hausnummer]  
-[Deine PLZ und Ort]  
-[Deine E-Mail-Adresse]  
+Erik.com.eb@gmail.com
 
 ## 2. Arten der verarbeiteten Daten und Zweck
 Bei der Nutzung dieser App werden Daten verarbeitet, um die technische Funktionalität bereitzustellen, Fehler zu analysieren und das Nutzererlebnis kontinuierlich zu verbessern.
